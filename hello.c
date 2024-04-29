@@ -6,6 +6,6 @@ int main()
     scanf("%d",&x);
     printf("What is Y?\n");
     scanf("%d",&y);
-    z=x+y;
-    printf("X+Y= %d\n" , z);
+    z=x*y;
+    printf("X*Y= %d\n" , z);
 }
